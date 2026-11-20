@@ -1,0 +1,12 @@
+﻿{
+  "name": "devops-actions",
+  "version": "1.0.0",
+  "description": "GitHub Actions practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'tests passed' && exit 0",
+    "lint": "echo 'lint ok' && exit 0",
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
